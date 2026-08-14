@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Azrin Hossain
 
-### Software Engineer | Frontend Development | Exploring Backend & AI
+### Software Engineer | Full Stack Development | Frontend Development | Exploring Backend & AI
 
 I'm a Software Engineer focused on building modern, responsive, and user-friendly web applications.
 
