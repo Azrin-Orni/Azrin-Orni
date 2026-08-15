@@ -2,12 +2,6 @@
 
 ### Software Engineer | Full Stack Development | Frontend Development | Exploring Backend & AI
 
-I'm a Software Engineer focused on building modern, responsive, and user-friendly web applications.
-
-My professional experience is primarily in **Angular, React, Next.js, and TypeScript**, with a growing interest in backend development and AI.
-
-🌱 **Currently exploring backend development with Express.js and .NET / ASP.NET Core**, while also exploring AI to strengthen my problem-solving skills and understanding of how different technologies can be used to build practical software solutions.
-
 ---
 
 ## 🧑‍💻 About Me
@@ -107,70 +101,6 @@ I'm continuously improving my problem-solving approach through algorithms, backe
 > Backend development and AI are areas I'm actively learning and experimenting with, rather than areas of professional experience.
 
 ---
-
-## 🚀 Personal Projects
-
-These are projects I've built or worked on outside of my professional work.
-
-### 🚌 Shuttle Booking
-
-A full-stack shuttle booking application focused on passenger booking, seat availability, authentication, and administration.
-
-**Next.js · Node.js · Express · MongoDB**
-
-[View Repository](https://github.com/Azrin-Orni/shuttle-booking)
-
----
-
-### 👩‍💼 CRM System
-
-A CRM application built to manage customer-related information and workflows.
-
-**Angular · TypeScript**
-
-[View Repository](https://github.com/Azrin-Orni/CRM-System)
-
----
-
-### 💰 Budget Planner
-
-A React application for managing and tracking personal budgets and expenses.
-
-**React · JavaScript**
-
-[View Repository](https://github.com/Azrin-Orni/BudgetPlanner-React)
-
----
-
-### 📋 Assignment System
-
-A project where I'm experimenting with **C# and .NET** while learning more about backend development and API handling.
-
-**C# · .NET**
-
-[View Repository](https://github.com/Azrin-Orni/assignment-system)
-
----
-
-## 🎯 What I'm Working Towards
-
-My current goal is to grow from a frontend-focused engineer into a well-rounded **full-stack developer**.
-
-I'm particularly interested in:
-
-* Building scalable web applications
-* Frontend architecture and development
-* Backend architecture and API development
-* Exploring **Express.js and .NET / ASP.NET Core**
-* Understanding how different backend technologies solve similar problems
-* AI-powered applications
-* Databases and system design
-* Writing clean and maintainable code
-* Improving problem-solving skills
-
----
-
-
 
 ## 🌐 Let's Connect
 
