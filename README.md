@@ -9,7 +9,7 @@
 * 💻 Software Engineer with professional experience in frontend development
 * ⚡ Experienced with **Angular, React, Next.js, TypeScript, and JavaScript**
 * 🔧 Experience working with **APIs, RxJS, data visualization, dynamic forms, and responsive UI**
-* 🌐 Exploring backend development using **Express.js and .NET / ASP.NET Core**
+* 🌐 Exploring backend development using **Express.js and Python**
 * 🤖 Exploring **AI and AI-powered applications**
 * 🧠 Interested in backend architecture, API handling, databases, and problem solving
 * 🚀 Working towards becoming a stronger **full-stack engineer**
@@ -53,8 +53,7 @@ My professional work has primarily focused on building and maintaining enterpris
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases
 
@@ -74,7 +73,7 @@ My professional work has primarily focused on building and maintaining enterpris
 
 ### 🌐 Backend & API Development
 
-I'm currently exploring **both Express.js and .NET / ASP.NET Core** to better understand how backend applications and APIs are designed, built, and handled.
+I'm currently exploring **both Express.js and Python** to better understand how backend applications and APIs are designed, built, and handled.
 
 I'm experimenting with different backend approaches to strengthen my understanding of:
 
